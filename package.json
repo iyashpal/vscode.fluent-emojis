@@ -1,0 +1,21 @@
+{
+    "name": "fluent-emojis",
+    "displayName": "Fluent Emojis",
+    "description": "Fluent ui emojies for all files.",
+    "version": "0.0.1",
+    "preview": true,
+    "engines": {
+        "vscode": "^1.70.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
